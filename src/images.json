@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "David",
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/david-s5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Jocelyn",
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/jocelyn-s5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Alexis",
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/alexis-s5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4, 
+        "name": "Johnny",
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/johnny-s5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Moira",
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/moira-s5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Patrick",
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/patrick-s4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Roland",
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/roland-s4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Ted", 
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/ted-mullens-s2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Twyla",
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/twyla-s4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Stevie",
+        "image": "https://www.cbc.ca/schittscreek/content/images/people/stevie-s5.jpg",
+        "clicked": false
+    }
+]
+    
